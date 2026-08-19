@@ -224,22 +224,6 @@ Collaborated within PCCOE's premier technical club on hands-on engineering proje
 
 
 
-</div>
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Birewar&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Birewar&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Siddhesh-Birewar&theme=tokyonight&hide_border=true&cache_bust=1"/>
-
-</p>
 
 ---
 
